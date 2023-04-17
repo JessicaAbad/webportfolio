@@ -208,7 +208,7 @@ h1 span {
 }
 
 .bg1 {
-  background: url("./images/self.jpeg");
+  background: url("./images/self.JPEG");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
